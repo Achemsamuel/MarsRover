@@ -1,0 +1,16 @@
+PODS:
+  - expanding-collection (3.1.0)
+
+DEPENDENCIES:
+  - expanding-collection
+
+SPEC REPOS:
+  trunk:
+    - expanding-collection
+
+SPEC CHECKSUMS:
+  expanding-collection: 7eb1fc48c6ec5e00c8887fe46c595c31b81b578a
+
+PODFILE CHECKSUM: 14318680cc324a31396a662e5be346f89d0b93fa
+
+COCOAPODS: 1.8.4
